@@ -1,0 +1,88 @@
+{
+    "user": [
+        {}
+    ],
+    "plants": [
+        {
+            "id":"1",
+            "ten":"Bonsai 1",
+            "gia":200000,
+            "kichThuoc":"Nhỏ",
+            "xuatXu":"Nhật Bản",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trident_Maple_bonsai_52%2C_October_10%2C_2008.jpg/1024px-Trident_Maple_bonsai_52%2C_October_10%2C_2008.jpg",
+
+            "soLuong":1000,
+            "uaThich":false
+        },
+        {
+            "id":"2",
+            "ten":"Bonsai 2",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trident_Maple_bonsai_52%2C_October_10%2C_2008.jpg/1024px-Trident_Maple_bonsai_52%2C_October_10%2C_2008.jpg",
+
+            "gia":200000,
+            "kichThuoc":"Lớn",
+            "xuatXu":"Nhật Bản",
+            "soLuong":1000,
+            "uaThich":true
+        },{
+            "id":"3",
+            "ten":"Bonsai 3",
+            "gia":200000,
+            "kichThuoc":"Nhỏ",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trident_Maple_bonsai_52%2C_October_10%2C_2008.jpg/1024px-Trident_Maple_bonsai_52%2C_October_10%2C_2008.jpg",
+
+            "xuatXu":"Nhật Bản",
+            "soLuong":1000,
+            "uaThich":false
+        },
+        {
+            "id":"4",
+            "ten":"Bonsai 4",
+            "gia":200000,
+            "kichThuoc":"Lớn",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trident_Maple_bonsai_52%2C_October_10%2C_2008.jpg/1024px-Trident_Maple_bonsai_52%2C_October_10%2C_2008.jpg",
+
+            "xuatXu":"Nhật Bản",
+            "soLuong":1000,
+            "uaThich":true
+        },{
+            "id":"5",
+            "ten":"Bonsai 5",
+            "gia":200000,
+            "kichThuoc":"Nhỏ",
+            "xuatXu":"Nhật Bản",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trident_Maple_bonsai_52%2C_October_10%2C_2008.jpg/1024px-Trident_Maple_bonsai_52%2C_October_10%2C_2008.jpg",
+
+            "soLuong":1000,
+            "uaThich":false
+        },
+        {
+            "id":"6",
+            "ten":"Bonsai 6",
+            "gia":200000,
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trident_Maple_bonsai_52%2C_October_10%2C_2008.jpg/1024px-Trident_Maple_bonsai_52%2C_October_10%2C_2008.jpg",
+            "kichThuoc":"Lớn",
+            "xuatXu":"Nhật Bản",
+            "soLuong":1000,
+            "uaThich":true
+        }
+    ],
+    "pots": [
+        {}
+    ],
+    "items": [
+        {}
+    ],
+    "notify": [
+        {}
+    ],
+    "carts": [
+        {}
+    ],
+    "pays": [
+        {}
+    ],
+    "history": [
+        {}
+    ]
+}
